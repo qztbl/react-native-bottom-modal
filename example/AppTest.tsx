@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { SafeAreaView, Text, TouchableOpacity } from "react-native";
-import { BottomModal } from 'react-native-bottom-modal';
+import { BottomModal } from 'rn-bottom-modal';
 
 const App = () => {
   const [show, setShow] = useState(false)

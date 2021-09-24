@@ -1,5 +1,5 @@
 
-# react-native-bottom-modal
+# rn-bottom-modal
 
 * Modal with bottom slide out animation
 * Customizable content components
@@ -7,15 +7,15 @@
 
 ## Install
 
-`$ yarn add react-native-bottom-modal`
+`$ yarn add rn-bottom-modal`
 
 or
 
-`$ npm install react-native-bottom-modal --save`
+`$ npm install rn-bottom-modal --save`
 
 ## Import
 
-`import {BottomModal} from 'react-native-bottom-modal'`
+`import {BottomModal} from 'rn-bottom-modal'`
 
 ## Props
 
