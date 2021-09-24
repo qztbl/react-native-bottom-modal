@@ -57,4 +57,5 @@ or
   <Text>Content</Text>
 </BottomModal>
 ```
+![](./example.gif)
 
