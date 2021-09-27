@@ -5,7 +5,7 @@
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "updateLib": "yarn upgrade react-native-bottom-modal --ignore-engines",
+    "updateLib": "yarn upgrade rn-bottom-modal --ignore-engines",
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint ."
