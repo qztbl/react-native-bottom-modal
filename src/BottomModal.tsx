@@ -5,6 +5,7 @@ import {
 } from 'react-native';
 
 interface BottomModalProps {
+  children?: React.ReactNode
   containerStyle?: StyleProp<ViewStyle>
   hasMask?: boolean
   touchOutsideClose?: boolean
